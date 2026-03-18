@@ -1,6 +1,6 @@
 # stratum-apps
 
-A curated collection of applications built on the [Stratum](https://github.com/BroBordd/stratum) bare-metal OpenGL ES 2.0 UI framework for Android. Consumed as a submodule by both Stratum and [boot-menu](https://github.com/BroBordd/boot-menu).
+A curated collection of applications built on the [Stratum](https://github.com/BroBordd/stratum) bare-metal OpenGL ES 2.0 UI framework for Android.
 
 ## Structure
 
